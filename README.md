@@ -21,4 +21,5 @@ Projects Graveyard.
                         [XXXXXXXXXXXXXXXXXXXXXXXXXXX]
                         [ XXXXXXXXX XXXXXXXX XXXXXX ]
                         [X XXXXXXX XXXXXX X XXXX XXX]
-    \//  \|/ \/|/   \ [XX\|//XXXXXXXXXXXXX\XXXXXXXX\/XX] \|/  \/|/ \/ \||/\/   ###############################################################################
+    \//  \|/ \/|/   \ [XX\|//XXXXXXXXXXXXX\XXXXXXXX\/XX] \|/  \/|/ \/ \||/\/  
+    ########################################################################
